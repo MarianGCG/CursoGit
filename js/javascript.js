@@ -1,4 +1,4 @@
 // Javascript
 function saludo() {
-        alert ("Hola ALumnos");
+        alert ("Hola ALumnos . Que tal??");
 }
